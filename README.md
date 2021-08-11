@@ -111,10 +111,10 @@
     </p>
     
 <a href="https://github.com/mokshya-priyadarshee?tab=repositories">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshya-priyadarshee&label=Profile%20views&color=0e75b6&style=plastic" alt="mokshya-priyadarshee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mokshya-priyadarshee&label=Profile%20views&color=0e75b6&style=plastic" alt="mokshya-priyadarshee" /> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshya-priyadarshee&show_icons=true&locale=en&layout=compact" alt="mokshya-priyadarshee" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshya-priyadarshee&show_icons=true&locale=en&layout=compact" alt="mokshya-priyadarshee" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mokshya-priyadarshee&show_icons=true&locale=en" alt="mokshya-priyadarshee" /></p>
 
