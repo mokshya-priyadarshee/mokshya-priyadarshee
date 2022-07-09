@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Hi, I am Mokshya Priyadarshee 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px">
+       width="30px" height="30px">
   </h2></h1>
 
 
